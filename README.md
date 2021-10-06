@@ -1,1 +1,1 @@
-# TIled-Matrix-Multiplication---OpenMP
+# Tiled Matrix Multiplication - OpenMP
